@@ -1,8 +1,8 @@
-# Challenge 03: Multiplication Game
+# Milestone 03: Multiplication Game
 
-## Hacking With Swift challenge 03
+## Hacking With Swift milestone 03
 
-This is Challenge 03 in Paul Hudson's 100 Days of SwiftUI course. The project creates an iOS app that kids can use to learn their multiplication tables.
+This is Milestone 03 in Paul Hudson's 100 Days of SwiftUI course. The project creates an iOS app that kids can use to learn their multiplication tables.
 
 ## Course Link
 
